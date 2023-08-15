@@ -1,0 +1,14 @@
+.icon-animation:hover{
+  transform: scale(1.2);
+  cursor: pointer;
+}
+.delete-icon-animation:hover{
+  color: red;
+
+}
+.edit-icon-animation:hover{
+  color: green;
+}
+.row-animation:hover{
+  background-color: lightgrey;
+}
